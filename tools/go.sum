@@ -48,6 +48,7 @@ github.com/gonum/lapack v0.0.0-20181123203213-e4cdc5a0bff9/go.mod h1:XA3DeT6rxh2
 github.com/gonum/matrix v0.0.0-20181209220409-c518dec07be9/go.mod h1:0EXg4mc1CNP0HCqCz+K4ts155PXIlUywf0wqN+GfPZw=
 github.com/google/go-jsonnet v0.19.1 h1:MORxkrG0elylUqh36R4AcSPX0oZQa9hvI3lroN+kDhs=
 github.com/google/go-jsonnet v0.19.1/go.mod h1:5JVT33JVCoehdTj5Z2KJq1eIdt3Nb8PCmZ+W5D8U350=
+github.com/google/go-jsonnet v0.20.0/go.mod h1:VbgWF9JX7ztlv770x/TolZNGGFfiHEVx9G6ca2eUmeA=
 github.com/google/safehtml v0.0.2/go.mod h1:L4KWwDsUJdECRAEpZoBn3O64bQaywRscowZjJAzjHnU=
 github.com/googleapis/gax-go v0.0.0-20161107002406-da06d194a00e/go.mod h1:SFVmujtThgffbyetf+mdk2eWhX2bMyUtNHzFKcPA9HY=
 github.com/jsonnet-bundler/jsonnet-bundler v0.5.1 h1:eUd6EA1Qzz73Q4NLNLOrNkMb96+6NTTERbX9lqaxVwk=
